@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import if_then_planning
+// @testable import if_then_planning
 
 class if_then_planningTests: XCTestCase {
 
